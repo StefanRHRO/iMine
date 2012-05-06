@@ -1,4 +1,4 @@
 iMine
 =====
 
-iMine project management tool..
+iMine project management tool...
